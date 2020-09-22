@@ -1,2 +1,2 @@
-# Image_Segmentation
-General purpose image segmentation (Tensorflow 2, Keras)
+# Image Segmentation
+General purpose image segmentation in Tensorflow 2 and Keras
